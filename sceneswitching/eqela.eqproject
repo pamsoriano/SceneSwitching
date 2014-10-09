@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SceneSwitching
+#
+
+projectname: SceneSwitching
+vendorid: com.mycompany.soriano
+mainmodule: com.mycompany.soriano.sceneswitching
